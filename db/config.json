@@ -1,0 +1,10 @@
+{
+  "time_tempjobs": {
+    "id": "time_tempjobs",
+    "val": "10:10"
+  },
+  "replace_tempjobs": {
+    "id": "replace_tempjobs",
+    "val": "##NAMA##.nama,##TGL##.jobTime"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "temp": {
+    "id": "temp",
+    "text": "",
+    "base64": "",
+    "mime": "",
+    "status": false
+  },
+  "temp00": {
+    "id": "temp00",
+    "text": "hi, #NAMA#\nhari ini Adalah Tanggal akhir STR,\npada Tanggal : #TGL#",
+    "base64": "",
+    "mime": "",
+    "status": true
+  },
+  "temp15": {
+    "id": "temp15",
+    "text": "hi, #NAMA#\n15 hari Lagi Adalah Tanggal akhir STR,\npada Tanggal : #TGL#",
+    "base64": "",
+    "mime": "",
+    "status": true
+  },
+  "temp30": {
+    "id": "temp30",
+    "text": "hi, #NAMA#\n30 hari Lagi Adalah Tanggal akhir STR,\npada Tanggal : #TGL#",
+    "base64": "",
+    "mime": "",
+    "status": true
+  }
+}
