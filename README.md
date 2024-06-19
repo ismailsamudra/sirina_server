@@ -13,7 +13,7 @@
 - Server dibagun menggunakan Nodejs
 - dengan database basis JSON
 - dengan jenis aplikasi BACKEND
-- dan di peruntukkan kepada APP FRONEND :
+- dan di peruntukkan kepada APP FRONTEND :
 - [EASY-LARAVEL V.3](https://github.com/laratealcorp/master_larateal_v.1.18)
 - Server ini Menggunakan Dependency :
 - [Expert-json](https://github.com/ismailsamudra/expert-json) Sebagai crud Database
