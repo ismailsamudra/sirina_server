@@ -44,12 +44,17 @@ npm start
 npx nodemon app.js
 ```
 - CMD RUN PM2
-<br> start
+
+<br> start pm2
 ```
 npx pm2 start app.js
 ```
-<br> stop
+<br> stop pm2
 ```
 npx pm2 stop app.js
 ```
 
+<hr>
+
+BY : [ISMAIL SAMUDRA](https://facebook.com/ismailsamudra86) <br>
+DONASI : <a href="https://saweria.co/ismailsamudra" target="_blank">SAWERIA</a>
