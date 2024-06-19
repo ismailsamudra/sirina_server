@@ -17,7 +17,7 @@
 - [EASY-LARAVEL V.3](https://github.com/laratealcorp/master_larateal_v.1.18)
 - Server ini Menggunakan Dependency :
 - [Expert-json](https://github.com/ismailsamudra/expert-json) Sebagai crud Database
-- [WhatsAap-web-js](https://wwebjs.dev/) Sebagai Core dari server
+- [Whatsaap-web-js](https://wwebjs.dev/) Sebagai Core dari server
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) Sebagai autentikasi server
 - [Express](https://www.npmjs.com/package/express) Sebagai Routers server
 - [Axios](https://www.npmjs.com/package/axios) Sebagai Request server
