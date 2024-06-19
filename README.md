@@ -29,7 +29,8 @@
 - KETENTUAN
 <br> Versi di github hanya work pada localhost guna sebagai pembelajaran dan pengembangan Link : [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 <br> bagi yg ingin Link lainx harap hunbungi pengembang.
-
+- KONFIGURASI AWAL
+<br> Rename default.env menjadi .env dan isi data Client sesuai data anda.
 - CMD REPO
 ```
 git clone https://github.com/ismailsamudra/sirina_server
