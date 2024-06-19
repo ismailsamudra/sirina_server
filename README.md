@@ -21,8 +21,35 @@
 ## ATURAN PAKAI
 - KETENTUAN
 <br> Versi di github hanya work pada localhost guna sebagai pembelajaran dan pengembangan Link : [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
-<br> bagi yg ingin Ling lainx harap hunbungi pengembang.
+<br> bagi yg ingin Link lainx harap hunbungi pengembang.
+
 - CMD REPO
 ```
 git clone https://github.com/ismailsamudra/sirina_server
 ```
+- CMD GO ROOT FOLDER 
+```
+cd sirina_server
+```
+- CMD INISIASI 
+```
+npm install
+```
+- CMD RUN
+```
+npm start
+```
+- CMD RUN NODEMON
+```
+npx nodemon app.js
+```
+- CMD RUN PM2
+<br> start
+```
+npx pm2 start app.js
+```
+<br> stop
+```
+npx pm2 stop app.js
+```
+
