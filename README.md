@@ -6,7 +6,7 @@
 
 <div align='center'>
    <h1>Sistem Registrasi Nakes</h1>
-   <h3>Sirina Server Nodejs</h3>
+   <h3>Server BackEnd Nodejs</h3>
 </div>
 
 ## KETERANGAN
