@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const jsonParser = bodyParser.json();
 var path = require("path");
 const fs = require('fs');
-
+console.log("host : http://103.151.20.176/");
 router.post('/api/:act/:id?' ,jsonParser, queryApi);
 
 router.get('/:page?' , function(req,res){
