@@ -26,11 +26,4 @@ router.get('/img/:name?' , function(req,res){
    }
 });
 
-// router.get('/down' ,function(req,res){
-//     const file = './db/wabot.json';
-//     res.download(file);
-// });
-
-// router.get('/whatsapp/:id?', {'status':true})
-
 module.exports = router;
