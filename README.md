@@ -14,7 +14,7 @@
 - dengan database basis JSON
 - Menggunakan Dependency :
 - [Expert-json](https://github.com/ismailsamudra/expert-json) Sebagai crud Database
-- [WhatsAp-web-js](https://wwebjs.dev/) Sebagai Core dari server
+- [WhatsAap-web-js](https://wwebjs.dev/) Sebagai Core dari server
 
 
 ![Picture3](https://github.com/ismailsamudra/sirina_server/assets/67509798/50c4b9ef-ec43-437d-a379-0f6d2d9ffbee)
