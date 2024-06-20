@@ -10,7 +10,7 @@
 </div>
 
 ## KETERANGAN
-- Server dibagun menggunakan Nodejs
+- Server dibangun menggunakan Nodejs
 - dengan database basis JSON
 - dengan jenis aplikasi BACKEND
 - dan di peruntukkan kepada APP FRONTEND :
